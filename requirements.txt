@@ -1,0 +1,16 @@
+
+---
+
+## Requirements
+
+- Python **3.8 or higher**
+
+No external libraries are required.
+
+---
+
+## How to Run
+
+1. Download or clone the project.
+2. Open a terminal in the project folder.
+3. Run the script:
